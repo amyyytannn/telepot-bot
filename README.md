@@ -1,15 +1,16 @@
 
 Sup! 
 
-#What does this do:
-	1.If you are looking to receive quick feedback on your ideas and have a group of helpful, savvy and cooperative people also bubbling with innovative and original ideas wanting sharing similar intentions, look no further! You can even choose to attach an image to your query!
+##What does this do:
 
-	2. Seeking a great Python framework to start making telegram bots. Telepot is fantastic. this script might be useful to grasp the basic functionalities (chat/event handling and inline keyboards/buttons) as there aren't many tutorials for beginners.
+1.If you are looking to receive quick feedback on your ideas and have a group of helpful, savvy and cooperative people also bubbling with innovative and original ideas wanting sharing similar intentions, look no further! You can even choose to attach an image to your query!
 
-Feel free to use/improve on it/fix issues/learn from it
+2. if ya seeking a great Python framework to start making telegram bots, Telepot is fantastic. this script might be useful to grasp the basic functionalities (chat/event handling and inline keyboards/buttons) as there aren't many tutorials for beginners.
 
-#More details on what it does: (instructions on /start)
-- Post queries which people can respond to anonymously and privately in a separate room because anonymity is likely to encourage honest feedback.
+Feel free to use/learn from it
+
+##More details on what it does: (instructions on /start)
+- Post queries which people can respond to anonymously/privately in a separate room because anonymity is likely to encourage 		honest feedback.
 - Retrieve list of your OWN queries and their respective responses 
 - Rate people's ideas and even add feedback by clicking on query in the channel.
 - Optional: Attach images to your queries
@@ -24,4 +25,4 @@ Feel free to use/improve on it/fix issues/learn from it
 
 
 
-Note: currently not sure if this is the latest version, randomly found it collecting dust in my Desktop so making it useful by sharing publicly.
+Note: currently not sure if this is the latest/working version, randomly found it collecting dust in my Desktop so making it useful by sharing publicly. Haffun
